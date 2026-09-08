@@ -5,7 +5,7 @@ import Link from "next/link";
 // (Research / Documentation / Testing), and a document upload
 // (PDF) or a Drive link to the document. See DOCS_TEMPLATE.md
 // and EMAIL_DRAFT.md in the repo root for the rest of the flow.
-const GOOGLE_FORM_URL = "https://forms.gle/REPLACE_ME";
+const GOOGLE_FORM_URL = "https://sg.ashoka.edu.in/platform/forms/714bf453-8c30-493a-8104-bd58dccc581f";
 
 const TRACKS = [
   {
