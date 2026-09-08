@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --brand: #0e4d3f;
+  --brand-light: #e8f2ee;
+  --accent: #b8560f;
+}
+
+body {
+  background-color: var(--paper, #faf9f7);
+  color: #1c1917;
+}
+
+* {
+  scrollbar-width: thin;
+}
+
+.card {
+  background: #ffffff;
+  border: 1px solid #e7e3dc;
+  border-radius: 10px;
+}

@@ -1,0 +1,558 @@
+[
+  {
+    "id": "FC-0801-6",
+    "code": "FC-0801-6",
+    "name": "Principles of Science",
+    "professor": "Somak Raychaudhury",
+    "department": "Foundation Course",
+    "location": "AC-02-LR-107",
+    "description": "Principles of Science [FC-0801] [FC-0801-6] Faculty Somak Raychaudhury [somak.raychaudhury@ashoka.edu.in], Gautam Basu [gautam.basu@ashoka.edu.in] Overview Deconstructing Discoveries Almost all high school graduates have studied science. However, the science they encounter is typ...",
+    "credits": 4,
+    "timeSlots": [
+      {
+        "day": "Friday",
+        "start": "11:50",
+        "end": "13:20"
+      },
+      {
+        "day": "Wednesday",
+        "start": "11:50",
+        "end": "13:20"
+      }
+    ],
+    "hasSaturday": false
+  },
+  {
+    "id": "CHM-2501-1",
+    "code": "CHM-2501-1",
+    "name": "Industrial Chemistry",
+    "professor": "Sourav Chatterjee",
+    "department": "Chemistry",
+    "location": "AC-01-LR-101",
+    "description": "Industrial Chemistry [CHM-2501] [CHM-2501-1] Faculty Sourav Chatterjee [sourav.chatterjee@ashoka.edu.in] Overview Course Description This course is designed for undergraduate program. Industrial Chemistry bridges the gap between fundamental chemical principles and their large-sca...",
+    "credits": 4,
+    "timeSlots": [
+      {
+        "day": "Monday",
+        "start": "18:20",
+        "end": "19:50"
+      },
+      {
+        "day": "Thursday",
+        "start": "16:40",
+        "end": "18:10"
+      }
+    ],
+    "hasSaturday": false
+  },
+  {
+    "id": "ECO-3553/ ECO-4553/ PUB-3553-2",
+    "code": "ECO-3553/ ECO-4553/ PUB-3553-2",
+    "name": "Environmental and Energy Economics",
+    "professor": "Sanjana Ghosh",
+    "department": "Economics",
+    "location": "AC-01-LR-105",
+    "description": "Environmental and Energy Economics [ECO-3553/ ECO-4553/ PUB-3553] [ECO-3553/ ECO-4553/ PUB-3553-2] Faculty Sanjana Ghosh [sanjana.ghosh@ashoka.edu.in] Overview This course introduces students to the economics of environmental pollution, regulation, and welfare, with a focus on em...",
+    "credits": 4,
+    "timeSlots": [
+      {
+        "day": "Monday",
+        "start": "16:40",
+        "end": "18:10"
+      },
+      {
+        "day": "Wednesday",
+        "start": "16:40",
+        "end": "18:10"
+      }
+    ],
+    "hasSaturday": false
+  },
+  {
+    "id": "MS-2051-1",
+    "code": "MS-2051-1",
+    "name": "Creating Images - History and Practice",
+    "professor": "Natasha Badhwar",
+    "department": "Media Studies",
+    "location": "AC-04-LR-405",
+    "description": "Creating Images - History and Practice [MS-2051] [MS-2051-1] Faculty Natasha Badhwar [natasha.badhwar@ashoka.edu.in] Overview Creating Images - History and Practice This course introduces students to the history, theory and practice of photography through an engagement with major...",
+    "credits": 4,
+    "timeSlots": [
+      {
+        "day": "Thursday",
+        "start": "15:00",
+        "end": "16:30"
+      },
+      {
+        "day": "Tuesday",
+        "start": "15:00",
+        "end": "16:30"
+      }
+    ],
+    "hasSaturday": false
+  },
+  {
+    "id": "CT-0001-10",
+    "code": "CT-0001-10",
+    "name": "Introduction to Critical Thinking",
+    "professor": "Aditya Shrivastava",
+    "department": "Critical Thinking",
+    "location": "AC-01-LR-201",
+    "description": "Introduction to Critical Thinking [CT-0001] [CT-0001-10] Faculty Aditya Vikram Shrivastava [aditya.shrivastava@ashoka.edu.in] Overview The Introduction to Critical Thinking offers you different ways to develop your habits of thinking and communication through reading, writing, an...",
+    "credits": 4,
+    "timeSlots": [
+      {
+        "day": "Monday",
+        "start": "15:00",
+        "end": "16:30"
+      },
+      {
+        "day": "Wednesday",
+        "start": "15:00",
+        "end": "16:30"
+      }
+    ],
+    "hasSaturday": false
+  },
+  {
+    "id": "CT-0001-1",
+    "code": "CT-0001-1",
+    "name": "Introduction to Critical Thinking",
+    "professor": "Arpita Das",
+    "department": "Critical Thinking",
+    "location": "AC-02-LR-001",
+    "description": "Introduction to Critical Thinking [CT-0001] [CT-0001-1] Faculty Arpita Das [arpita.das@ashoka.edu.in] Overview In this course, you will develop and rehearse the habits that are essential to the development of a critical mind: reading, writing, speaking, listening and, of course, ...",
+    "credits": 4,
+    "timeSlots": [
+      {
+        "day": "Friday",
+        "start": "10:10",
+        "end": "11:40"
+      },
+      {
+        "day": "Tuesday",
+        "start": "10:10",
+        "end": "11:40"
+      }
+    ],
+    "hasSaturday": false
+  },
+  {
+    "id": "FC-0601-5",
+    "code": "FC-0601-5",
+    "name": "Great Books",
+    "professor": "S Kumar",
+    "department": "Foundation Course",
+    "location": "AC-02-LR-208-209",
+    "description": "Great Books [FC-0601] [FC-0601-5] Faculty S Satish Kumar [s.kumar@ashoka.edu.in] Teaching Fellow Naureen Raina [naureen.raina_tf@ashoka.edu.in], Bhavya Gupta [bhavya.gupta_tf@ashoka.edu.in] Overview This course seeks to reflect on care and love both conceptually and experientiall...",
+    "credits": 4,
+    "timeSlots": [
+      {
+        "day": "Thursday",
+        "start": "16:40",
+        "end": "18:10"
+      },
+      {
+        "day": "Tuesday",
+        "start": "16:40",
+        "end": "18:10"
+      }
+    ],
+    "hasSaturday": false
+  },
+  {
+    "id": "BIO-3005/ BIO-6009-1",
+    "code": "BIO-3005/ BIO-6009-1",
+    "name": "Biostatistics and Bioinformatics",
+    "professor": "Kedar Natarajan",
+    "department": "Biology",
+    "location": "AC-04-LR-008",
+    "description": "Biostatistics and Bioinformatics [BIO-3005/ BIO-6009] [BIO-3005/ BIO-6009-1] Faculty Kedar Nath Natarajan [kedar.natarajan@ashoka.edu.in], Tanmoy Roychowdhury [tanmoy.roychowdhury@ashoka.edu.in] Overview This undergraduate course introduces students to the foundational concepts a...",
+    "credits": 4,
+    "timeSlots": [
+      {
+        "day": "Monday",
+        "start": "11:50",
+        "end": "13:20"
+      },
+      {
+        "day": "Wednesday",
+        "start": "11:50",
+        "end": "13:20"
+      }
+    ],
+    "hasSaturday": false
+  },
+  {
+    "id": "FC-0412-2",
+    "code": "FC-0412-2",
+    "name": "Economy, Politics and Society",
+    "professor": "Arun Sukumar",
+    "department": "Foundation Course",
+    "location": "AC-03-LR-005",
+    "description": "Economy, Politics and Society [FC-0412] [FC-0412-2] Faculty Arun Mohan Sukumar [arun.sukumar@ashoka.edu.in] Overview This course puts the I in EPS. Few social, political, or economic movements can be understood in isolation from their international context. Their triggers may be ...",
+    "credits": 4,
+    "timeSlots": [
+      {
+        "day": "Friday",
+        "start": "08:30",
+        "end": "10:00"
+      },
+      {
+        "day": "Wednesday",
+        "start": "08:30",
+        "end": "10:00"
+      }
+    ],
+    "hasSaturday": false
+  },
+  {
+    "id": "POL-1005-1",
+    "code": "POL-1005-1",
+    "name": "Introduction to Comparative Politics",
+    "professor": "Bannseng Tan",
+    "department": "Political Science",
+    "location": "AC-01-LR-106",
+    "description": "Introduction to Comparative Politics [POL-1005] [POL-1005-1] Faculty Bann Seng Tan [bannseng.tan@ashoka.edu.in] Overview This course introduces students to the important questions, theories, and fundamental concepts in the field of Comparative Politics, alongside the basic tools ...",
+    "credits": 4,
+    "timeSlots": [
+      {
+        "day": "Monday",
+        "start": "10:10",
+        "end": "11:40"
+      },
+      {
+        "day": "Wednesday",
+        "start": "10:10",
+        "end": "11:40"
+      }
+    ],
+    "hasSaturday": false
+  },
+  {
+    "id": "PHI-3645-1",
+    "code": "PHI-3645-1",
+    "name": "Reasons, Deliberation, and Action",
+    "professor": "Tatyana Kostochka",
+    "department": "Philosophy",
+    "location": "AC-04-LR-002",
+    "description": "Reasons, Deliberation, and Action [PHI-3645] [PHI-3645-1] Faculty Tatyana Aleksandrovna Kostochka [tatyana.kostochka@ashoka.edu.in] Overview We will explore key questions in the philosophy of action and in philosophy of reasons. Topics to be covered are: Intention, Weakness of Wi...",
+    "credits": 4,
+    "timeSlots": [
+      {
+        "day": "Friday",
+        "start": "18:20",
+        "end": "19:50"
+      },
+      {
+        "day": "Tuesday",
+        "start": "18:20",
+        "end": "19:50"
+      }
+    ],
+    "hasSaturday": false
+  },
+  {
+    "id": "POL-2091-1",
+    "code": "POL-2091-1",
+    "name": "Militants or Freedom Fighters? Armed Conflicts in India",
+    "professor": "Kaustav Chakrabarti",
+    "department": "Political Science",
+    "location": "AC-04-LR-410",
+    "description": "Militants or Freedom Fighters? Armed Conflicts in India [POL-2091] [POL-2091-1] Faculty Kaustav Dhar Chakrabarti [kaustav.chakrabarti@ashoka.edu.in] Overview One person's freedom fighter is another person's terrorist is a common expression that sums up the complexity of armed con...",
+    "credits": 4,
+    "timeSlots": [
+      {
+        "day": "Monday",
+        "start": "10:10",
+        "end": "11:40"
+      },
+      {
+        "day": "Wednesday",
+        "start": "10:10",
+        "end": "11:40"
+      }
+    ],
+    "hasSaturday": false
+  },
+  {
+    "id": "IR-2048-1",
+    "code": "IR-2048-1",
+    "name": "War and Strategy",
+    "professor": "Pallavi Raghavan",
+    "department": "International Relations",
+    "location": "AC-02-LR-203",
+    "description": "War and Strategy [IR-2048] [IR-2048-1] Faculty Pallavi Raghavan [pallavi.raghavan@ashoka.edu.in] Overview This course offers an introduction to war and strategy in international politics. The first part of the course deals with the conceptual and normative dimensions of war throu...",
+    "credits": 4,
+    "timeSlots": [
+      {
+        "day": "Thursday",
+        "start": "16:40",
+        "end": "18:10"
+      },
+      {
+        "day": "Tuesday",
+        "start": "16:40",
+        "end": "18:10"
+      },
+      {
+        "day": "Friday",
+        "start": "12:00",
+        "end": "13:30"
+      }
+    ],
+    "hasSaturday": false
+  },
+  {
+    "id": "CHI-2101-1",
+    "code": "CHI-2101-1",
+    "name": "Mandarin Level - 3",
+    "professor": "Shao Chin",
+    "department": "Chinese",
+    "location": "AC-04-LR-402",
+    "description": "Mandarin Level - 3 [CHI-2101] [CHI-2101-1] Faculty Shao Chin [shao.chin@ashoka.edu.in] Overview Mandarin 3 is for students who have completed Mandarin Level 2 . The course will introduce students to the Chinese language and culture and focus on speaking, listening, reading, and w...",
+    "credits": 4,
+    "timeSlots": [
+      {
+        "day": "Friday",
+        "start": "10:10",
+        "end": "11:40"
+      },
+      {
+        "day": "Monday",
+        "start": "10:10",
+        "end": "11:40"
+      },
+      {
+        "day": "Wednesday",
+        "start": "10:10",
+        "end": "11:40"
+      }
+    ],
+    "hasSaturday": false
+  },
+  {
+    "id": "PSY-2021-2",
+    "code": "PSY-2021-2",
+    "name": "Cognitive Psychology",
+    "professor": "Sneha Shashidhara",
+    "department": "Psychology",
+    "location": "AC-01-LR-106",
+    "description": "Cognitive Psychology [PSY-2021] [PSY-2021-2] Faculty Sneha Shashidhara [sneha.shashidhara@ashoka.edu.in] Overview This course is currently undergoing design and modification. Please check this location frequently for updates and changes. Cognitive psychology is the study of how w...",
+    "credits": 4,
+    "timeSlots": [
+      {
+        "day": "Thursday",
+        "start": "10:10",
+        "end": "11:40"
+      },
+      {
+        "day": "Tuesday",
+        "start": "10:10",
+        "end": "11:40"
+      }
+    ],
+    "hasSaturday": false
+  },
+  {
+    "id": "SOA-3171-1",
+    "code": "SOA-3171-1",
+    "name": "Technoscientific Imaginaries in a Post-Truth World: STS and Its Futures-Past",
+    "professor": "TBA",
+    "department": "Sociology & Anthropology",
+    "location": "AC-02-LR-008",
+    "description": "Technoscientific Imaginaries in a Post-Truth World: STS and Its Futures-Past [SOA-3171] [SOA-3171-1] Overview Science and Technology Studies (STS) is an interdisciplinary field that examines the historical, philosophical, social, cultural, political, economic, and ecological cons...",
+    "credits": 4,
+    "timeSlots": [
+      {
+        "day": "Thursday",
+        "start": "15:00",
+        "end": "16:30"
+      },
+      {
+        "day": "Tuesday",
+        "start": "15:00",
+        "end": "16:30"
+      }
+    ],
+    "hasSaturday": false
+  },
+  {
+    "id": "CS-1102-1",
+    "code": "CS-1102-1",
+    "name": "Introduction to Computer Science",
+    "professor": "Sanjiva Prasad",
+    "department": "Computer Science",
+    "location": "AC-04-LR-008",
+    "description": "Introduction to Computer Science [CS-1102] [CS-1102-1] Faculty Sanjiva Prasad [sanjiva.prasad@ashoka.edu.in] Overview This introductory course offers a foundation in computational thinking as a powerful, structured approach to problem-solving. It is built around one uncompromisin...",
+    "credits": 4,
+    "timeSlots": [
+      {
+        "day": "Thursday",
+        "start": "11:50",
+        "end": "13:20"
+      },
+      {
+        "day": "Tuesday",
+        "start": "11:50",
+        "end": "13:20"
+      }
+    ],
+    "hasSaturday": false
+  },
+  {
+    "id": "CS-2212-1",
+    "code": "CS-2212-1",
+    "name": "Data Structures and Algorithms",
+    "professor": "Thakkar",
+    "department": "Computer Science",
+    "location": "AC-01-LR-106",
+    "description": "Data Structures and Algorithms [CS-2212] [CS-2212-1] Faculty Aalok Dhaval Thakkar [thakkar@ashoka.edu.in] Overview Niklaus Wirth titled his 1976 book Algorithms + Data Structures = Programs , an equation as close to a definition of our discipline as we are likely to get. Computin...",
+    "credits": 4,
+    "timeSlots": [
+      {
+        "day": "Thursday",
+        "start": "08:30",
+        "end": "10:00"
+      },
+      {
+        "day": "Tuesday",
+        "start": "08:30",
+        "end": "10:00"
+      }
+    ],
+    "hasSaturday": false
+  },
+  {
+    "id": "CS-3810-1",
+    "code": "CS-3810-1",
+    "name": "Design Practices in CS",
+    "professor": "Partha Das",
+    "department": "Computer Science",
+    "location": "AC-04-LR-401",
+    "description": "Design Practices in CS [CS-3810] [CS-3810-1] Faculty Partha Pratim Das [partha.das@ashoka.edu.in] Overview This course introduces students to structured design practices in computer science, bridging foundational knowledge in data structures, algorithms, and systems with the real...",
+    "credits": 4,
+    "timeSlots": [
+      {
+        "day": "Monday",
+        "start": "16:40",
+        "end": "18:10"
+      },
+      {
+        "day": "Wednesday",
+        "start": "16:40",
+        "end": "18:10"
+      }
+    ],
+    "hasSaturday": false
+  },
+  {
+    "id": "CS-4440-1",
+    "code": "CS-4440-1",
+    "name": "Artificial Intelligence",
+    "professor": "Lipika Dey",
+    "department": "Computer Science",
+    "location": "AC-04-LR-001",
+    "description": "Artificial Intelligence [CS-4440] [CS-4440-1] Faculty Lipika Dey [lipika.dey@ashoka.edu.in] Overview Artificial Intelligence (AI) stands at the intersection of philosophy, logic, computation, and cognition - shaping the future of how people and machines interact with each other. ...",
+    "credits": 4,
+    "timeSlots": [
+      {
+        "day": "Thursday",
+        "start": "15:00",
+        "end": "16:30"
+      },
+      {
+        "day": "Tuesday",
+        "start": "15:00",
+        "end": "16:30"
+      }
+    ],
+    "hasSaturday": false
+  },
+  {
+    "id": "CS-2102-1",
+    "code": "CS-2102-1",
+    "name": "Programming Lab",
+    "professor": "Sanjiva Prasad",
+    "department": "Computer Science",
+    "location": "AC-01-LR-205",
+    "description": "Programming Lab [CS-2102] [CS-2102-1] Faculty Sanjiva Prasad [sanjiva.prasad@ashoka.edu.in] Overview This 2-credit lab develops skills for writing correct, safe, and efficient code through hands-on programming. Students will strengthen core concepts, including memory management, ...",
+    "timeSlots": [
+      {
+        "day": "Tuesday",
+        "start": "15:00",
+        "end": "16:30"
+      }
+    ],
+    "hasSaturday": false
+  },
+  {
+    "id": "CS-3410/ MAT-3211-1",
+    "code": "CS-3410/ MAT-3211-1",
+    "name": "Introduction to Machine Learning",
+    "professor": "Anirban Sen",
+    "department": "Computer Science",
+    "location": "AC-01-LR-205",
+    "description": "Introduction to Machine Learning [CS-3410/ MAT-3211] [CS-3410/ MAT-3211-1] Faculty Anirban Sen [anirban.sen@ashoka.edu.in] Overview This is a first level introductory course on Machine Learning. It introduces the core concepts and foundations of machine learning, including both s...",
+    "credits": 4,
+    "timeSlots": [
+      {
+        "day": "Monday",
+        "start": "15:00",
+        "end": "16:30"
+      },
+      {
+        "day": "Thursday",
+        "start": "15:00",
+        "end": "16:30"
+      }
+    ],
+    "hasSaturday": false
+  },
+  {
+    "id": "ENT-2002-1",
+    "code": "ENT-2002-1",
+    "name": "Social Entrepreneurship and Impact",
+    "professor": "Advaita Rajendra",
+    "department": "Entrepreneurship",
+    "location": "AC-04-LR-005",
+    "description": "Social Entrepreneurship and Impact [ENT-2002] [ENT-2002-1] Faculty Advaita Rajendra [advaita.rajendra@ashoka.edu.in] Operational Support Sagar Singhal [sagar.singhal@ashoka.edu.in], Soumyajit Bhattacharjee [soumyajit.bhattacharjee@ashoka.edu.in] Overview This course aims to suppo...",
+    "credits": 4,
+    "timeSlots": [
+      {
+        "day": "Saturday",
+        "start": "10:10",
+        "end": "11:40"
+      },
+      {
+        "day": "Saturday",
+        "start": "11:50",
+        "end": "13:20"
+      }
+    ],
+    "hasSaturday": true
+  },
+  {
+    "id": "ENT-2051-1",
+    "code": "ENT-2051-1",
+    "name": "Leadership and Change Management",
+    "professor": "Vishwanath Bhattacharya",
+    "department": "Entrepreneurship",
+    "location": "Admin-LR-305",
+    "description": "Leadership and Change Management [ENT-2051] [ENT-2051-1] Faculty Vishwanath Bhattacharya [vishwanath.bhattacharya@ashoka.edu.in] Operational Support Sagar Singhal [sagar.singhal@ashoka.edu.in], Soumyajit Bhattacharjee [soumyajit.bhattacharjee@ashoka.edu.in] Overview Leadership is...",
+    "credits": 2,
+    "timeSlots": [
+      {
+        "day": "Saturday",
+        "start": "10:10",
+        "end": "11:40"
+      },
+      {
+        "day": "Thursday",
+        "start": "10:10",
+        "end": "11:40"
+      }
+    ],
+    "hasSaturday": true
+  }
+]
